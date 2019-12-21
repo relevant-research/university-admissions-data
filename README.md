@@ -13,14 +13,15 @@
 2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1XggQUkJPWgAUyAGn5tLAcUoxI6Ey8SdE <br />
 <br />
 **2016** <br />
-1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1DCZ_zC4o2ZhkMmdKE-4xEFVDqDid_-_z <br />
+1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1DCZ_zC4o2ZhkMmdKE-4xEFVDqDid_-_z 
+<br/>
 2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/16qyQNRb8iq5CDUVCYHgCbPX1vkN_0eu1 <br />
 <br />
 **2015** <br />
 1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/19_t9lfv7UqLcTTXfcdDVO3c74CHF4sO6 <br />
 2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/14iWH-7DkW6OZdO9DzW1sBXL8HZAGrn3B <br />
 <br/>
-**2014** \
+**2014**<br/>
 1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/14RWALD7wVaRs9RHM2ot81ovGUuXPYBrT/view?usp=sharing <br/>
 2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1yI5TVqBswjSBV_5oxy8eKYG2Toye-TK2 <br/>
 
