@@ -1,16 +1,16 @@
 # university-admissions-data
 Дані про вступ до закладів вищої освіти в 2015 - 2019 роках
 
-1. 2019 <br />
+**2019** <br />
   1.1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1jTa2ZwpkCfcdodlhZsl_HvFqHljZi2OV  <br />
 <br />
-2. 2018 <br />
-  2.1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J  <br />
-  2.2. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані з www.vstup.info): https://drive.google.com/file/d/1xkFwlpdpV9CfIaFFGbzhc_sqgwfMD_pn  <br />
+**2018** <br />
+1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J  <br />
+2. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані з www.vstup.info): https://drive.google.com/file/d/1xkFwlpdpV9CfIaFFGbzhc_sqgwfMD_pn  <br />
 <br />
-3. 2017 <br />
-  3.1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1OTthjOpawA0vrCBv4x8pxF-TeAoSpD38
-  3.2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1XggQUkJPWgAUyAGn5tLAcUoxI6Ey8SdE <br />
+**2017** <br />
+1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1OTthjOpawA0vrCBv4x8pxF-TeAoSpD38
+2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1XggQUkJPWgAUyAGn5tLAcUoxI6Ey8SdE <br />
 <br />
 
 _______________________________________________________________
