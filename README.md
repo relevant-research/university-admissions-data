@@ -1,11 +1,10 @@
 # university-admissions-data
 Дані про вступ до закладів вищої освіти в 2015 - 2019 роках
 
-1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру під час вступної кампанії 2019 (отриманий на запит з info.edbo.gov.ua): https://drive.google.com/file/d/1jTa2ZwpkCfcdodlhZsl_HvFqHljZi2OV/view?usp=sharing  <br />
-2. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру під час вступної кампанії 2018 (отриманий на запит з info.edbo.gov.ua): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J/view?usp=sharing  <br />
-  2.1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру під час вступної кампанії 2018 (дані з www.vstup.info): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J/view?usp=sharing  <br />
-
-3. 
+1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру під час вступної кампанії 2019 (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1jTa2ZwpkCfcdodlhZsl_HvFqHljZi2OV  <br />
+2. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру під час вступної кампанії 2018 (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J  <br />
+  2.1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру під час вступної кампанії 2018 (дані з www.vstup.info): https://drive.google.com/file/d/1xkFwlpdpV9CfIaFFGbzhc_sqgwfMD_pn  <br />
+3. Зараховані на навчання (на бакалаврат та медичну/ветеринарну магістратуру) за результатами вступної кампанії 2017 (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1XggQUkJPWgAUyAGn5tLAcUoxI6Ey8SdE
 _______________________________________________________________
 
 У цьому репозиторії публікуються набори даних про українське суспільство у зручному для обробки та аналізу форматі
