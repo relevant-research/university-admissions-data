@@ -1,8 +1,9 @@
 # university-admissions-data
 Дані про вступ до закладів вищої освіти в 2015 - 2019 роках
 
-Повний набір даних за вступну кампанію 2019 (отриманий на запит з info.edbo.gov.ua): https://drive.google.com/file/d/1jTa2ZwpkCfcdodlhZsl_HvFqHljZi2OV/view?usp=sharing
-Повний набір даних за вступну кампанію 2018 (отриманий на запит з info.edbo.gov.ua): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J/view?usp=sharing
+Повний набір даних за вступну кампанію 2019 (отриманий на запит з info.edbo.gov.ua): https://drive.google.com/file/d/1jTa2ZwpkCfcdodlhZsl_HvFqHljZi2OV/view?usp=sharing  <br />
+Повний набір даних за вступну кампанію 2018 (отриманий на запит з info.edbo.gov.ua): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J/view?usp=sharing  <br />
+Повний набір даних за вступну кампанію 2018 (з www.vstup.info): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J/view?usp=sharing  <br />
 _______________________________________________________________
 
 У цьому репозиторії публікуються набори даних про українське суспільство у зручному для обробки та аналізу форматі
