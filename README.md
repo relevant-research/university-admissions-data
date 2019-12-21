@@ -9,9 +9,9 @@
 2. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані з www.vstup.info): https://drive.google.com/file/d/1xkFwlpdpV9CfIaFFGbzhc_sqgwfMD_pn  <br />
 <br />
 **2017** <br />
-1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1OTthjOpawA0vrCBv4x8pxF-TeAoSpD38  <br />
-2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1XggQUkJPWgAUyAGn5tLAcUoxI6Ey8SdE <br />
-<br />
+1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1OTthjOpawA0vrCBv4x8pxF-TeAoSpD38  <br/>
+2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1XggQUkJPWgAUyAGn5tLAcUoxI6Ey8SdE <br/>
+  
 **2016** <br />
 1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1DCZ_zC4o2ZhkMmdKE-4xEFVDqDid_-_z 
 <br/>
