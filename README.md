@@ -2,7 +2,7 @@
 Дані про вступ до закладів вищої освіти в 2015 - 2019 роках
 
 **2019** <br />
-  1.1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1jTa2ZwpkCfcdodlhZsl_HvFqHljZi2OV  <br />
+Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1jTa2ZwpkCfcdodlhZsl_HvFqHljZi2OV  <br />
 <br />
 **2018** <br />
 1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1YZz0GyKasKyFiyXvLni6JkOlJ5X2JU2J  <br />
