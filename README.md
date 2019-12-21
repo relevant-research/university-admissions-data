@@ -20,7 +20,7 @@
 1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/19_t9lfv7UqLcTTXfcdDVO3c74CHF4sO6 <br />
 2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/14iWH-7DkW6OZdO9DzW1sBXL8HZAGrn3B <br />
 <br/>
-**2014** <br/>  
+**2014** \
 1. Усі заявки на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/14RWALD7wVaRs9RHM2ot81ovGUuXPYBrT/view?usp=sharing <br/>
 2. Дані лише про зарахованих на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1yI5TVqBswjSBV_5oxy8eKYG2Toye-TK2 <br/>
 
