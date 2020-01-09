@@ -20,10 +20,14 @@
 **2015** <br />
 1. Заяви вступників на денну форму на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/19_t9lfv7UqLcTTXfcdDVO3c74CHF4sO6 <br />
 2. Заяви вступників, зарахованих на навчання на денну форму на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/14iWH-7DkW6OZdO9DzW1sBXL8HZAGrn3B <br />
+
+Опис даних: https://docs.google.com/spreadsheets/d/1ezC061fMuMzfHyi8gmhQMZbUPYcanYPWvdDkABNdxD4/edit?usp=sharing 
   
 **2014**<br/>
 1. Заяви вступників на денну форму на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/14RWALD7wVaRs9RHM2ot81ovGUuXPYBrT/view?usp=sharing <br/>
 2. Заяви вступників, зарахованих на денну форму на навчання на бакалаврат та медичну/ветеринарну магістратуру (дані отримані на запит з ЄДЕБО): https://drive.google.com/file/d/1yI5TVqBswjSBV_5oxy8eKYG2Toye-TK2 <br/>
+
+Опис даних: https://docs.google.com/spreadsheets/d/1ezC061fMuMzfHyi8gmhQMZbUPYcanYPWvdDkABNdxD4/edit?usp=sharing 
 
 _______________________________________________________________
 
